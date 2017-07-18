@@ -4,3 +4,14 @@ body {
 h2 {
   color: #8A0868;
 }
+img{
+  display: block;
+  margin: auto;
+}
+
+h1,h2{
+  test-align: center
+}
+p{
+  text-align: left
+}
