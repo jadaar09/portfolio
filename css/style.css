@@ -1,7 +1,7 @@
-.myportfolio_body {
-  background-color: red;
+p.myportfolio_body {
+  background-color: #FF0040;
 }
-.shaped-me-body{
+p.shaped-me-body{
   background-color: #BF00FF;
 }
 h2 {
